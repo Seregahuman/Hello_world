@@ -12,11 +12,13 @@ package java2;
 public class Java2 {
 
     /**
+     * Это метод, отвечающий за вывод на экран "Hello world!"
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println();
+        System.out.println("Hello world");
+        
     }
     
 }
